@@ -56,7 +56,7 @@ The evaluation is area under ROC curve.
 
 4. **Final Model**  
    - Chosen model: `XGBoost` with tuned parameters  
-   - ROC AUC: **0.9337 (CV)**, **0.9277 (Test)**
+   - ROC AUC: **0.9371 (CV)**, **0.9319 (Test)**
 
 ---
 
